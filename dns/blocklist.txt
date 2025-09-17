@@ -172,6 +172,11 @@
 ||office6.uk.com^
 ||app88.live^
 ||new8855.pro^
+||tk88.com^
+||tk88.moda^
+||fit.us.com^
+||guy.us.com^
+||seo.eu.com^
 # APK 
 ||snaptube.dev^ # APK Malware
 ||ytddownloader.com^ # Redirect to many sites
@@ -338,6 +343,8 @@
 ||vi.xhspot.com^
 ||sexapi.net^
 ||yly88.xyz^
+||gw.alicdn.com^ # Found on Lazada
+||zconfig.alibabausercontent.com^ # Found on Lazada
 # Redirect Shopee
 ||phimmoiz.pro^ 
 ||goeco.mobi^
