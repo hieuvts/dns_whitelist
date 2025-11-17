@@ -96,6 +96,8 @@
 @@||play.itunes.apple.com.edgesuite.net^
 @@||icloud.com^
 @@||mzstatic.com^
+@@||iadsdk.apple.com^
+@@||ca.iadsdk.apple.com^
 # Spotify
 @@||wl.spotify.com^
 @@||open.spotify.com^

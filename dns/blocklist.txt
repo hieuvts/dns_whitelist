@@ -281,6 +281,9 @@
 ||thapcam.tv^
 ||banhkhuc.tv^
 ||playrik88.pro^
+||hongtinmoi.pro^
+||hongtin247.pro^
+||honghot.me^
 # Phising
 ||zaloweb.vn^
 ||zaloweb.me^
